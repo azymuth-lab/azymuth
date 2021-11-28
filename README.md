@@ -1,0 +1,2 @@
+# azymuth
+High Availability Patterns
